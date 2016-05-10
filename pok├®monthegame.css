@@ -1,0 +1,216 @@
+body {
+	background-image: url(afbeeldingen/bodybackgr.png);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#spelzone
+{
+	
+}
+
+#route1
+{
+	position: absolute;
+	width: 620px;
+	height: 540px;
+	border:solid;
+	left: 50%;
+	top: 50%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+
+#ash
+{
+	position: absolute;
+	height: 3em;
+	top : 35%;
+	left: 27%;
+	z-index: 3;
+}
+
+#treeLine1
+{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -296px;
+	margin-top: -256px;
+	z-index: 2
+}
+#treeLine2
+{
+	position: absolute;
+	left: 50%;
+	top: 55%;
+	margin-left: -296px;
+	margin-top: -256px;
+	z-index: 2
+}
+#treeLine3
+{
+	position: absolute;
+	left: 50%;
+	top: 60%;
+	margin-left: -296px;
+	margin-top: -256px;
+	z-index: 2
+}
+#treeLine4
+{
+	position: absolute;
+	left: 50%;
+	top: 92%;
+	margin-left: -296px;
+	margin-top: -256px;
+	z-index: 2
+}
+#treeLine5
+{
+	position: absolute;
+	left: 50%;
+	top: 97%;
+	margin-left: -296px;
+	margin-top: -256px;
+	z-index: 2
+}
+#treeLine6
+{
+	position: absolute;
+	left: 50%;
+	top: 102%;
+	margin-left: -296px;
+	margin-top: -256px;
+	z-index: 2
+}
+#grasB1
+{
+	position: absolute;
+	left: 83%;
+	top: 51%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#grasB2
+{
+	position: absolute;
+	left: 90.5%;
+	top: 51%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#gras
+{
+	position: absolute;
+	left: 50.5%;
+	top: 66%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#gras2
+{
+	position: absolute;
+	left: 58%;
+	top: 66%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#gras3
+{
+	position: absolute;
+	left: 65.5%;
+	top: 66%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#gras4
+{
+	position: absolute;
+	left: 73%;
+	top: 66%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#gras5
+{
+	position: absolute;
+	left: 80.5%;
+	top: 66%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#gras6
+{
+	position: absolute;
+	left: 88%;
+	top: 66%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#grasO1
+{
+	position: absolute;
+	left: 50.5%;
+	top: 80%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#grasO2
+{
+	position: absolute;
+	left: 58%;
+	top: 80%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#grasO3
+{
+	position: absolute;
+	left: 65.5%;
+	top: 80%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#grasO4
+{
+	position: absolute;
+	left: 73%;
+	top: 80%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#grasO5
+{
+	position: absolute;
+	left: 80.5%;
+	top: 80%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#grasO6
+{
+	position: absolute;
+	left: 88%;
+	top: 80%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#grasOn1
+{
+	position: absolute;
+	left: 83%;
+	top: 94%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+#grasOn2
+{
+	position: absolute;
+	left: 90.5%;
+	top: 94%;
+	margin-left: -296px;
+	margin-top: -256px;
+}

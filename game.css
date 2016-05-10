@@ -1,0 +1,72 @@
+html { 
+  background: url(IMG/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body
+{
+    
+}
+
+p
+{
+    padding-left: 2px;
+    padding-top: 0.01px;
+}
+
+#spelzone
+{
+	background: url(IMG/bodybackgr.png); 
+    position: absolute;
+	width: 620px;
+	height: 540px;
+	border:solid;
+	left: 50%;
+	top: 50%;
+	margin-left: -296px;
+	margin-top: -256px;
+}
+
+#ash
+{
+	position: absolute;
+	height: 3em;
+	top : 50%;
+	left: 0%;
+	z-index: 3;
+    padding: none;
+}
+
+
+#pika
+{
+	position: absolute;
+	height: 3em;
+	top : -3%;
+	left: 92%;
+	z-index: 3;
+    padding: none;
+}
+
+#uitleg
+{
+    background-color: aliceblue;
+    border-style: solid;
+    position: absolute;
+	width: 150px;
+	height: 540px;
+	border:solid;
+	left: 50%;
+	top: 50%;
+	margin-left: 330px;
+	margin-top: -256px;
+}
+#bal
+{
+    height: 4%;
+    z-index: 5;
+    d
+}
