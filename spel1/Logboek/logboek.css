@@ -1,0 +1,15 @@
+body
+{
+    background-color: aqua;
+}
+h1
+{
+    text-align: center;
+}
+
+.entry
+{
+    border-bottom-style: solid;
+    border-color: black;
+    padding-left: 8px;
+}
